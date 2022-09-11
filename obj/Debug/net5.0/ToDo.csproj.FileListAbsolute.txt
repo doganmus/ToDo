@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.exe
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.deps.json
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.json
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.dev.json
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.dll
+D:\education\PatikaPratikler\ToDo\bin\Debug\net5.0\ToDo.pdb
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfo.cs
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.dll
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\refint\ToDo.dll
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.pdb
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ToDo.genruntimeconfig.cache
+D:\education\PatikaPratikler\ToDo\obj\Debug\net5.0\ref\ToDo.dll
